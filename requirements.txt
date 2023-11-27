@@ -1,0 +1,15 @@
+fastapi
+fastavro
+jsonschema
+loguru
+pydantic
+pydantic-settings
+pytest
+python-dateutil
+python-dotenv
+requests
+six
+uuid
+uvicorn
+sqlalchemy
+shortuuid
